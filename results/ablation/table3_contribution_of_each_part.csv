@@ -1,0 +1,7 @@
+Effect of,Comparison,Volker,Crack500,OUC,Average
+Refinement module (under MAML),A4 − A1,-0.79,-0.54,-0.41,-0.58
+Refinement loss Lref (under MAML),A5 − A4,+0.36,+3.75,+0.42,+1.51
+Refinement loss Lref (supervised),A3 − A2,+0.45,+7.32,+4.38,+4.05
+"MAML training, no Lref",A4 − A2,+0.19,+9.10,+4.85,+4.71
+"MAML training, with Lref",A5 − A3,+0.10,+5.53,+0.88,+2.17
+Full method vs refinement-only supervised,A5 − A2,+0.55,+12.85,+5.26,+6.22

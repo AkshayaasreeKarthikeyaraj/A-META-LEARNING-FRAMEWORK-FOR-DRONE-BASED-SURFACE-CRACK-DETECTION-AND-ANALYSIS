@@ -1,0 +1,4 @@
+Dataset,Paper: train images,Paper: val images,Paper: test images,Ours: train images,Ours: test images,Train-set size ratio (ours/paper)
+Volker,50,30,909,693,149,13.9x
+Crack500,50,30,2207,2354,505,47.1x
+OUC,50,30,1211,902,195,18.0x

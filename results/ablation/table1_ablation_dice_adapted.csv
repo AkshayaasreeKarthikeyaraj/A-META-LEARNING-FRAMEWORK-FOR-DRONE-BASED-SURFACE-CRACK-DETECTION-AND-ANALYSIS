@@ -1,0 +1,6 @@
+ID,Variant,MAML,Refinement,Lref,Volker,Crack500,OUC,Average
+A1,MAML only,yes,no,no,68.96 ± 1.06,65.95 ± 2.78,70.89 ± 0.34,68.60
+A2,Refinement only (supervised),no,yes,no,67.98 ± 0.22,56.31 ± 2.69,65.63 ± 0.28,63.31
+A3,Refinement + Lref (supervised),no,yes,1,68.43 ± 0.92,63.62 ± 5.12,70.01 ± 1.12,67.35
+A4,MAML + refinement,yes,yes,no,68.18 ± 0.66,65.41 ± 5.30,70.47 ± 0.53,68.02
+A5,MAML + refinement + Lref (full),yes,yes,1,68.53 ± 0.83,69.16 ± 1.95,70.89 ± 0.26,69.53

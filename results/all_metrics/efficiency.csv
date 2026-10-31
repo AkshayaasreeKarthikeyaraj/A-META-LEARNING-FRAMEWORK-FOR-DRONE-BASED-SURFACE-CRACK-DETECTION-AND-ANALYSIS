@@ -1,0 +1,4 @@
+Model,Params (M),Trainable (M),Size fp32 (MB),GPU ms/img,GPU FPS,Peak GPU mem (MB),CPU ms/img,CPU FPS
+Volker,3.069,3.069,11.71,9.47,105.6,66.5,356.2,2.81
+Crack500,3.069,3.069,11.71,9.5,105.2,66.5,281.6,3.55
+OUC,3.069,3.069,11.71,9.56,104.6,66.5,283.0,3.53

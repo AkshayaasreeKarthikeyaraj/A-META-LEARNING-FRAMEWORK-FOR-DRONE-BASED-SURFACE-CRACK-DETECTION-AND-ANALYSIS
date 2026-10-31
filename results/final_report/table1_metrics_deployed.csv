@@ -1,0 +1,4 @@
+Dataset,Test images,Adapt steps,Threshold,Dice/F1,IoU,Precision,Recall,Accuracy,Specificity,ROC-AUC,Mean image Dice,Mean image IoU
+Volker,149,5,0.3,69.21,52.92,64.13,75.18,98.66,99.14,98.33,69.14,53.7
+Crack500,505,5,0.5,70.28,54.18,66.29,74.77,96.29,97.63,96.2,65.37,50.86
+OUC,195,3,0.6,71.21,55.29,67.52,75.31,98.9,99.33,98.54,70.86,56.31

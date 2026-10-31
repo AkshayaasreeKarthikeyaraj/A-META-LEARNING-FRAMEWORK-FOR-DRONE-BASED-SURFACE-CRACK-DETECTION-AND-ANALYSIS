@@ -1,0 +1,4 @@
+Dataset,Paper SEDNet without MAML,Paper SEDNet with MAML,Paper gain (pp),Ours 0 steps (no adaptation),Ours adapted,Our gain (pp)
+Volker,66.40,67.86,+1.46,61.84 ± 0.00,68.53 ± 0.83,+6.70
+Crack500,39.06,61.32,+22.26,25.74 ± 0.00,69.16 ± 1.95,+43.42
+OUC,46.03,56.23,+10.20,70.45 ± 0.00,70.89 ± 0.26,+0.44
