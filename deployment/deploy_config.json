@@ -1,0 +1,20 @@
+{
+  "Volker": {
+    "weights": "crack_Volker.pth",
+    "threshold": 0.3,
+    "val_dice": 0.6911,
+    "adapt_steps": 5
+  },
+  "Crack500": {
+    "weights": "crack_Crack500.pth",
+    "threshold": 0.5,
+    "val_dice": 0.694,
+    "adapt_steps": 5
+  },
+  "OUC": {
+    "weights": "crack_OUC.pth",
+    "threshold": 0.6,
+    "val_dice": 0.715,
+    "adapt_steps": 3
+  }
+}
